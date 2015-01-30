@@ -9,6 +9,7 @@ Powered by [Sculpin](http://sculpin.io). =)
 Features
 --------
 
+
 A very basic Sculpin based blog supporting the following features:
 
  * Very minimal Bootstrap based theme.
