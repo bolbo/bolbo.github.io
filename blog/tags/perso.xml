@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[Bolbo&#039;s Blog]]></title>
+    <link href="/blog/tags/perso.xml" rel="self"/>
+    <link href="/"/>
+    <updated>2015-01-30T21:32:28+01:00</updated>
+    <id>/</id>
+        <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[Welcome to my blog]]></title>
+            <link href="/blog/2015/01/30/welcome"/>
+            <updated>2015-01-30T00:00:00+01:00</updated>
+            <id>/blog/2015/01/30/welcome</id>
+            <content type="html"><![CDATA[<h1>Welcome to my new blog</h1>
+
+<p>In this blog, I will try to log my experiments on web develoment, atoum, Behat, Backbone or Pomm.</p>
+
+<p>In the next weeks, I intend to install an Elasticsearch/Logstash/Kibana stack to store application logs for my Symfony2 apps. 
+I want to try to make beautiful frontend with BackboneJS to work with a Symfony2 Rest backend, unit tested with atoum 
+and functional with Behat.</p>
+
+<p>I will try to replace Propel1 Orm on my projects by <a href="http://www.pomm-project.org/">Pomm</a></p>
+
+<p>2015 will be an interesting year!</p>
+]]></content>
+        </entry>
+    </feed>
